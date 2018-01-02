@@ -26,7 +26,6 @@
         "tweetnacl": "1.0.0",
         "ws": "3.3.3"
       }
-     "request": "2.81.0"
     },
     "long": {
       "version": "3.2.0",
